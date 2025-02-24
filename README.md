@@ -1,16 +1,16 @@
-# Aurora Project
+# Cosmos Project
 
-Welcome to the **Aurora Project**!
+Welcome to the **Cosmos Project**!
 
-This Python project generates random short poems. It's designed to spark creativity and offer a fun way to generate artistic expressions through simple algorithms.
+This repository contains a web project that dynamically displays random cosmic facts. Enjoy exploring the wonders of space through interactive web elements.
 
-## Features
-- Random short poem generator
-- Clean and easy-to-understand Python code
-- Simple structure, ready to be extended
+## What's Inside
+- A dynamic web page with interactive content
+- JavaScript functionality for displaying random cosmic facts
+- Modern CSS styling for a captivating look
 
-## How to Run
+## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/22_Mon_RandomLab_Aurora.git
+   git clone https://github.com/your-username/22_Mon_RandomLab_Cosmos.git
